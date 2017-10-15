@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' multi_excel("Werkzaamheden Tom")
+#' multi_excel("/Users/Daniel/Documents/Courses X/R/data stuff/excell data stuff/verrekening SKi pikken.xlsx")
 #'
 multi_excel <- function(file_name){
   assert_that(is.dir(dirname(file_name)))

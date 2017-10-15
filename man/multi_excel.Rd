@@ -13,6 +13,6 @@ the list of dataframes coming from the excel tabs
 This is the function to read multiple excel sheets into a dataframe
 }
 \examples{
-multi_excel("Werkzaamheden Tom")
+multi_excel("/Users/Daniel/Documents/Courses X/R/data stuff/excell data stuff/verrekening SKi pikken.xlsx")
 
 }
