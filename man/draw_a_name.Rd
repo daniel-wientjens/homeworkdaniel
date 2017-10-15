@@ -12,12 +12,12 @@ draw_a_name(the_name, the_sex)
 \item{the_sex}{a character}
 }
 \value{
-The ggplot of the name
+The graph of the name in question
 }
 \description{
 Drawing a graph of a name
 }
 \examples{
-draw_a_name("Vincent", "M")
+draw_a_name("Daniel", "M")
 
 }
